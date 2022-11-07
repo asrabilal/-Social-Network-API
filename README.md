@@ -1,8 +1,5 @@
 # 18 NoSQL: Social Network API
 
-
-   
-
 ## Table of Contents:  
   - [Description](#description)
   - [Installation](#installation)
@@ -13,10 +10,13 @@
   - [Additional Info](#additional-info)
 
 ## Description:
-This is a set of API for a social network that uses a MongoDB database so that the website can handle large amounts of unstructured data, Express.js for routing, Mongoose ODM, and the moment package to format time stamps.
+
+It is an API for a social network website to handle large amounts of unstructured data application where users can share their thoughts, reaction to friends’ thoughts, and create a friend list.
 
 ## Installation:
+
 This repo is not to be deployed, if you wanted to, you could by doing the following:  
+
 1. Download the repo files from the link below
 2. You must have mongoDB installed
 3. Run the following at the command line
