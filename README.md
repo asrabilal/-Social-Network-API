@@ -105,10 +105,9 @@ Testing restful API calls with Insomnia Core
  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
  ## Walkthrough Videos
-[User Routes](https://drive.google.com/file/d/1WMXQbCPAECIsU78gSpFk8IejF80_jtpW/view)  
-[Friend Routes](https://drive.google.com/file/d/1a2o-AOOmOIXz8dgTKsC1FvLIaNRoQJJf/view)  
-[Thought Routes](https://drive.google.com/file/d/17ocul_N5VOl4O70y8XEILtf8691lvxEj/view)  
-[Reaction Routes](https://drive.google.com/file/d/1gB0kILBgkD4XEpFXOeq6v5YhxP75W27d/view)  
+[User Routes](https://drive.google.com/file/d/1MCMZZMcS1GNv8lvXPiSxyygo_TlZ0VaR/view?usp=share_link)  
+[Thought Routes](https://drive.google.com/file/d/1OQOOEFiGrkD_1pa8KsKmbdJOgOkDjbu3/view?usp=sharing)  
+[Friends-Reaction Routes](https://drive.google.com/file/d/1mxGna2Hq6_tEEOfvj9_VjIn2S7DebvNS/view)  
 
 
 
